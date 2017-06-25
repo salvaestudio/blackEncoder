@@ -134,7 +134,7 @@ class Window(QtGui.QMainWindow):
     def __init__(self) -> object:
         super(Window, self).__init__()
         self.setGeometry(50, 50, 460, 400)
-        self.setWindowTitle("Super ENCODER")
+        self.setWindowTitle("blackEncoder")
         self.setWindowIcon(QtGui.QIcon('/home/salva/Imágenes/skull-01.png'))
 
         extractAction = QtGui.QAction("&EXIT", self)
