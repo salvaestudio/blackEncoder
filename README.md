@@ -13,4 +13,6 @@ Pending improvements:
 - Progress bar. Currently it passes fast to 99% and it is waiting to finish the process to go to 100% and close. I have not connected the progress bar with the ffmpeg action.
 - Make a Swift version for Mac compiling the application with ffmpeg included.
 
+![screenshot](https://k61.kn3.net/8/B/C/9/E/D/077.png)
+
 
