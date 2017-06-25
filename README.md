@@ -4,7 +4,7 @@ Video encoder written in Python and based on ffmpeg and PyQt4
 What differentiates this video encoder from others is that I have created it for very specific uses.
 They are presets that I frequently use in which I automatically add a few black frames in front of and behind the video and I use a certain codecs of video and audio and insert a certain TC.
 
-It is tested in linux and works well (CentOs and Antergos)
+It is tested in linux and works well (CentOs / Antergos)
 
 Pending improvements:
 
